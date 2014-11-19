@@ -1,6 +1,6 @@
 {
   "name": "netops-ruby_version",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Evgeniy Evtushenko",
   "summary": "Install scpecific ruby version",
   "license": "UNKNOWN",
@@ -9,7 +9,6 @@
   "issues_url": "UNKNOWN",
   "description": "This module allows you to manage ruby installation.",
   "dependencies": [
-    {"name":"puppetlabs/stdlib","version_requirement":">= 2.3.1"},
     {"name":"maestrodev/rvm","version_requirement":">= 1.6.6"}
   ]
 }
